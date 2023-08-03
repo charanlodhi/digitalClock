@@ -1,0 +1,12 @@
+body{background: #000; text-align: center;}
+#clock{
+    color: #ffff; font-size: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 95vh;
+}
+.button{color: #fff; width: 100px; background: tomato; display: inline-block; padding: 10px;
+    font-size: 30px; text-transform: uppercase;
+    cursor: pointer;
+}
